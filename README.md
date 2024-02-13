@@ -48,6 +48,7 @@ A Collection of Low Level Vision Research Groups
 - [Chang-Su Kim-Korea University](http://mcl.korea.ac.kr/)
 - [Hanspeter Pfister-Harvard University](https://vcg.seas.harvard.edu/)
 - [Kyoung Mu Lee-SNU](https://cv.snu.ac.kr/)
+- [Julian Tachella](https://tachella.github.io)
 
 
 
